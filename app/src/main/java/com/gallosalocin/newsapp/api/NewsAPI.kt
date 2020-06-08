@@ -22,6 +22,8 @@ interface NewsAPI {
     suspend fun searchForNews(
         @Query("q")
         searchQuery: String,
+        @Query("language")
+        languageCode: String = "fr",
         @Query("page")
         pageNumber: Int = 1,
         @Query("apiKey")
