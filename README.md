@@ -11,6 +11,8 @@ Application de News en Kotlin
 - [Room](https://developer.android.com/jetpack/androidx/releases/room)
 - [Retrofit](https://github.com/square/retrofit)
 - [Coroutines](https://developer.android.com/kotlin/coroutines)
+- [Navigation Components](https://developer.android.com/guide/navigation)
+- [Glide](https://github.com/bumptech/glide)
 
 
 ## Installation
